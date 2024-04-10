@@ -1,4 +1,13 @@
-# V-Admin
+# Just a fork to make it work with latest ESX version 
+i haven't done anything crazy just Fixed the deprecated getSharedObject
+
+
+
+
+
+
+# Original Readme
+## V-Admin
 
 ### Aujourd'hui je vous présente mon menu admin qui fonctionne avec ESX entièrement gratuit😉.
 > 
