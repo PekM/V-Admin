@@ -1,8 +1,6 @@
 ESX = {};
 
-TriggerEvent('esx:getSharedObject', function(obj)
-    ESX = obj
-end)
+ESX = exports["es_extended"]:getSharedObject()
 
 local gamertag = {
     ["user"] = "Joueurs",
